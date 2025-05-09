@@ -1,8 +1,8 @@
 <?php
 /**
- * Plugin Name: Cloudflare Cache Purger
+ * Plugin Name: BrightLocal - Cloudflare Cache Purger
  * Description: Purges Cloudflare cache on post publish/update.
- * Author: Ash
+ * Author: Ash Whiting for BrightLocal
  */
 
 require_once __DIR__ . '/vendor/autoload.php';
