@@ -1,5 +1,5 @@
 {
-  "name": "ash/cloudflare-purger",
+  "name": "asha23/wp-cloudflare-purger",
   "autoload": {
     "psr-4": {
       "Cloudflare\\": "src/Cloudflare/"
