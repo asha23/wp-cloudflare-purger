@@ -1,5 +1,8 @@
 {
   "name": "asha23/wp-cloudflare-purger",
+  "type": "wordpress-plugin",
+  "author": "Ash Whiting for BrightLocal",
+  "license": "GPL-2.0-or-later",
   "autoload": {
     "psr-4": {
       "Cloudflare\\": "src/Cloudflare/"
