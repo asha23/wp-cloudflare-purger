@@ -1,0 +1,11 @@
+{
+  "name": "ash/cloudflare-purger",
+  "autoload": {
+    "psr-4": {
+      "Cloudflare\\": "src/Cloudflare/"
+    }
+  },
+  "require": {
+    "guzzlehttp/guzzle": "^7.0"
+  }
+}
